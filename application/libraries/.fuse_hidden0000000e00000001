@@ -3,7 +3,7 @@
 /**
  * Class Options
  * Provide easy way to store application configuration in database
- * with easy to use UI
+ * with easy to use interface
  *
  * @author Eding Muhamad Saprudin <masaruedogawa@gmail.com>
  */
